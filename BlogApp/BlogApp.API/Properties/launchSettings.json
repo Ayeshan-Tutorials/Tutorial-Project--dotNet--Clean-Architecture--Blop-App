@@ -19,7 +19,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "https": {
+    "BlogApp.Api": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,

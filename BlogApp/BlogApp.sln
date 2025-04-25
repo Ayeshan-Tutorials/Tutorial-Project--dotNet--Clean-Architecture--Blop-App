@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogApp.API", "BlogApp.API\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogApp.Domain", "BlogApp.Domain\BlogApp.Domain.csproj", "{36F9C00B-409C-4708-9F78-35B2567A4469}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlopApp.Infrastructure", "BlopApp.Infrastructure\BlopApp.Infrastructure.csproj", "{02F17381-ADAA-42A6-9416-133758F04D1C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogApp.Infrastructure", "BlopApp.Infrastructure\BlogApp.Infrastructure.csproj", "{02F17381-ADAA-42A6-9416-133758F04D1C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogApp.Application", "BlogApp.Application\BlogApp.Application.csproj", "{B0B94228-A748-4B57-99C2-6F7AA4FB9A47}"
 EndProject
